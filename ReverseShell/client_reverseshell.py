@@ -4,7 +4,7 @@ import platform
 import os
 from PIL import ImageGrab
 
-HOST = "127.0.0.1" # Server IP
+HOST = "192.168.1.1"
 PORT = 5000
 class TCPClient:
     
